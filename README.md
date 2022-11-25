@@ -1,4 +1,1 @@
-# TestesGrowth
-# TestesGrowth
-# TestesGrowth
 # ProjetoAutomacaoGrowth
